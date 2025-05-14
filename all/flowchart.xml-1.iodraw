@@ -43,7 +43,7 @@
             <mxPoint x="330" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ILQCkzYejOVpNMB-jeQW-18" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ILQCkzYejOVpNMB-jeQW-18" value="进入博客编辑" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="161" y="-19" width="128" height="49" as="geometry" />
         </mxCell>
       </root>
