@@ -45,9 +45,6 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ILQCkzYejOVpNMB-jeQW-0" value="进入博客管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="-10" width="110" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ILQCkzYejOVpNMB-jeQW-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="30" as="sourcePoint" />
@@ -55,13 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ILQCkzYejOVpNMB-jeQW-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="-135" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ILQCkzYejOVpNMB-jeQW-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ILQCkzYejOVpNMB-jeQW-0">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="216" y="-75" as="sourcePoint" />
-            <mxPoint x="266" y="-125" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="175" y="-30" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
