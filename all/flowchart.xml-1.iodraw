@@ -46,7 +46,7 @@
         <mxCell id="ILQCkzYejOVpNMB-jeQW-18" value="进入博客编辑" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="161" y="-19" width="128" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ILQCkzYejOVpNMB-jeQW-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ILQCkzYejOVpNMB-jeQW-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.423;exitY=0.994;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ILQCkzYejOVpNMB-jeQW-10" target="ILQCkzYejOVpNMB-jeQW-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="387" y="186" as="sourcePoint" />
             <mxPoint x="437" y="136" as="targetPoint" />
