@@ -42,11 +42,17 @@
             <mxPoint x="437" y="136" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ILQCkzYejOVpNMB-jeQW-16" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ILQCkzYejOVpNMB-jeQW-16" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="280" y="220" as="sourcePoint" />
             <mxPoint x="330" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="220" />
+              <mxPoint x="305" y="273" />
+              <mxPoint x="330" y="273" />
+              <mxPoint x="330" y="334" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
